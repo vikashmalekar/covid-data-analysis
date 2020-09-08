@@ -1,1 +1,2 @@
 # covid-data-analysis
+In this project I collected datasets regarding daily basis reports of corona virus from the "John HopKins University". It has daily basis reports of different countries regarding no of death cases,recovery cases, confirmed cases across various regions of the county. By using python libraries I explored this data, analyzed,visualized in the form of tables,charts,graphs. Finally using Polynomial machine learning algorithm I predicted total upcoming cases for the next 60 days.
